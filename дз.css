@@ -146,7 +146,7 @@
 
 .form-row {
   margin-bottom: 10px;
-  /* display: flex; */
+  display: flex;
 }
 
 .form-row, .form-group {
@@ -189,4 +189,5 @@
   padding: 15px 0 10px;
   outline: none;
   font-family: inherit;
+
  }
